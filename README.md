@@ -1,6 +1,7 @@
 # quiz_app
 
 A new Flutter project.
+quiz app with getx(as state management)
 
 ## Getting Started
 
